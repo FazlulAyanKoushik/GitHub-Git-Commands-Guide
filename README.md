@@ -41,6 +41,9 @@ tools to streamline the development process. It is widely used by open-source pr
     git config --global user.email "Email Address"
     ```
 
+```bash
+git config --global color.ui auto
+```
 
 
 ### Basic Git Commands:
